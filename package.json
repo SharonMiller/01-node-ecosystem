@@ -1,0 +1,30 @@
+{
+  "name": "01-node-ecosystem",
+  "version": "1.0.0",
+  "description": "Greet Module and Arithmetic Module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest **/*.test.js",
+    "lint": "eslint **/.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharonMiller/01-node-ecosystem.git"
+  },
+  "author": "Sharon Miller </sharonmillerdev@gmail.com> (https://www.sharonmillercreative.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharonMiller/01-node-ecosystem/issues"
+  },
+  "homepage": "https://github.com/SharonMiller/01-node-ecosystem#readme",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "dependencies": {
+    "eslint": "^5.5.0"
+  }
+}
