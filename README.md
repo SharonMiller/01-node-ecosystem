@@ -1,3 +1,10 @@
+## README Documentation
+lib contains two module files. The first exports a function that when invoked will greet with hello "arg". It takes in one argument and that is what is concatinated to hello for the greeting. If a non string is entered it will return null. The second file is called arithmetic. It has two funcitons, the first adds two arguments and returns the sum and the second subtracts two arguments and returns the difference. When an argument is passed that is not a number, the functions will return null. 
+
+### Documentation
+In your README.md file, describe the exported values of each module defined in your `lib` directory. Every function description should include it's airty (expected number of parameters), the expected data for each parameter (data-type and limitations), and the expected output behavior (for both valid and invalid use). Feel free to include any additional information that you would like.
+
+
 ![CF](http://i.imgur.com/7v5ASc8.png) 01: Node Ecosystem
 ===
 
